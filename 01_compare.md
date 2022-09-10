@@ -99,4 +99,14 @@ absolutely manageable as a self-paced learning experience.
  actual statistical programming is intimidating.
  
  
+# What I Will Adopt
 
+The part of this datacamp course I am most impressed by is its user-friendliness and its subdivision of topics. I really appreciate the layout
+and would like to choose the best way I can implement something similar using my chosen software, whether by directing students to use 
+splitscreen layouts with a digital set of instructions or by using the built-in VS Code splitscreen functionality to do something similar. Being
+able to view everything at once (directions, your code, and the shell) makes the work much easier, and emulates the screen layout I used for
+most of the prework and summer work. 
+
+I would absolutely borrow some of the exercises used and the layouts of the comments/code stubs, particularly for the early lessons on
+a particular topic before more substantial design projects are implemented. They are well scaffolded into bite-sized pieces, although I would
+also build to less scaffolding later in a lesson or topic.
